@@ -5,6 +5,7 @@
 ### Front-End/Client:
 
 - React
+- Bootstrap
 
 ### Back-End/Server:
 

@@ -1,19 +1,15 @@
-MERN Full-Stack Notes App
+## MERN Full-Stack Notes App
 
-A note taking app that allows users to create, update, and delete notes.
+- A note taking app that allows users to create, update, and delete notes.
 
-Tech Stack:
+### Front-End/Client:
 
-Front-End/Client - React
+- React
 
-Back-End/Server - Node/Express
+### Back-End/Server:
 
-Database - MySQL
+- Node/Express
 
-Technologies, Frameworks, & Languages:
+### Database:
 
-Javascript, HTML, CSS, (React)Bootstrap
-
-CRUD operations & fetching and storing data from custom built (backend/server) RESTful api to MySQL database
-
-_Server_
+- MySQL
